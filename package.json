@@ -1,5 +1,6 @@
 {
   "name": "react-portfolio-digital",
+  "homepage": "https://augustoportfolio.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
