@@ -17,8 +17,8 @@ const Nav = () => {
           <AiOutlineUser />
       </a>
 
-      <a href="#habilities" onClick={() => setActiveNav('#experience')} 
-      className={activeNav === '#experience' ? 'active' : ''}>
+      <a href="#habilities" onClick={() => setActiveNav('#habilities')} 
+      className={activeNav === '#habilities' ? 'active' : ''}>
         <BiBook />
       </a>
 
